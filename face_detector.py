@@ -31,9 +31,6 @@ while True:
     cv2.imshow("Tristan's Face Detector", frame)
     cv2.waitKey(1)
     
-   # ### Stop program if X key is pressed
-    #if key==88 or key==120:
-    #    break
     
 # Release VideoCapture Obj
 webcam.release()
