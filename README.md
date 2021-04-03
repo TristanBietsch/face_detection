@@ -1,7 +1,7 @@
 # face_detection_python_opencv
 
-Demo video link below
-##https://www.loom.com/share/f07deadb1a6f48bd913fc03c9b529b7b
+Demo video link
+https://www.loom.com/share/f07deadb1a6f48bd913fc03c9b529b7b
 
 Prerequisites 
 - have a computer after the year 1999
